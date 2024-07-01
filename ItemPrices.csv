@@ -1,0 +1,16 @@
+﻿Location,Item,SalePrice,ItemCost,GrossProfit
+TimesSquare,Burger,8,6.5,1.5
+TimesSquare,Fries,3,1.8,1.2
+TimesSquare,Soda,2,0.75,1.25
+TimesSquare,Water,3,0.75,2.25
+TimesSquare,Salad,7,4.9,2.1
+CentralPark,Burger,9,6.5,2.5
+CentralPark,Fries,3.5,1.8,1.7
+CentralPark,Soda,2.25,0.75,1.5
+CentralPark,Water,3.5,0.75,2.75
+CentralPark,Salad,7.75,4.9,2.85
+UpperWest,Burger,8.75,6.5,2.25
+UpperWest,Fries,3.5,1.8,1.7
+UpperWest,Soda,3,0.75,2.25
+UpperWest,Water,3.75,0.75,3
+UpperWest,Salad,8,4.9,3.1
