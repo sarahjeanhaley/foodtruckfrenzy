@@ -26,7 +26,7 @@ for date in date_range:
 df = pd.DataFrame(data, columns=['Date', 'Location', 'Item', 'Quantity Sold'])
 
 # Export to CSV
-df.to_csv('FoodTruckSalesData.csv', index=False)
+df.to_csv('datafiles/FoodTruckSalesData.csv', index=False)
 
 # Display the first few rows
 print(df.head())
